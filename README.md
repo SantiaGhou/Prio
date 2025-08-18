@@ -55,7 +55,7 @@ Contribuições são bem-vindas. Sinta-se à vontade para abrir issues, enviar P
 <table>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/134265318?v=4" width="100" style="border-radius: 50%" alt="Filipe Santiago"/>
+      <img src="https://github.com/SantiaGhou.png" width="100" style="border-radius: 50%" alt="Filipe Santiago"/>
     </td>
     <td>
       <strong>Filipe Santiago</strong><br/>
